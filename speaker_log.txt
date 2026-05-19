@@ -1,0 +1,4 @@
+[00:00.65 - 00:02.62] SPEAKER_00: My name is Sumeran Prye.
+[00:02.86 - 00:06.26] SPEAKER_00: I am from Gwanshin, Hugli, West Bengal.
+[00:06.52 - 00:07.84] SPEAKER_00: My age is 26.
+[00:08.14 - 00:09.61] SPEAKER_00: My height is 5.4 feet.

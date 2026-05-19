@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+torch==2.0.1
+torchaudio==2.0.2
+soundfile
+pandas
+deepfilternet
+silero-vad
